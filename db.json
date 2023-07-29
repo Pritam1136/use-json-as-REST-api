@@ -1,0 +1,163 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user_uuid": "c484a199-4e51-473e-9c28-d70783bb95",
+      "username": "Code with Pritam",
+      "handle": "Pritam_1296",
+      "bio": "Love coding. Learn something new everyday. Coding needs practice, patients and punctuality.",
+      "link": "https://pritam1136.github.io/LandingPage/",
+      "img": "https://i.imgur.com/QvICKE3.jpg",
+      "instagram": "https://www.instagram.com/Pritam_1296/",
+      "followers": [
+        {
+          "user_uuid": "0829e7a7-4e51-473e-9c28-b6e783bb95"
+        },
+        {
+          "user_uuid": "eaa743df-093a-46f3-a296-d70783bb95"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "user_uuid": "eaa743df-093a-46f3-a296-d70783bb95",
+      "username": "Code with Bikas",
+      "handle": "Bikas_1139",
+      "bio": "I just play Valorant. And i love to do time pass",
+      "link": "https://www.bikas.com",
+      "img": "https://i.imgur.com/rWYtZa6.png",
+      "instagram": "https://www.instagram.com/Pritam_1296/",
+      "followers": [
+        {
+          "user_uuid": "c484a199-4e51-473e-9c28-d70783bb95"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "user_uuid": "0829e7a7-4e51-473e-9c28-b6e783bb95",
+      "username": "I am Dhananjay",
+      "handle": "Dhananjay_136",
+      "bio": "I am a CA.",
+      "link": "https://www.dhananjay.com",
+      "img": "https://i.imgur.com/rWYtZa6.png",
+      "instagram": "https://www.instagram.com/Pritam_1296/",
+      "followers": [
+        {
+          "user_uuid": "c484a199-4e51-473e-9c28-d70783bb95"
+        }
+      ]
+    }
+  ],
+  "threads": [
+    {
+      "id": 1,
+      "timestamp": "Wed Jul 26 2023 16:30:31 GMT+0530 (India Standard Time)",
+      "thread_from": "c484a199-4e51-473e-9c28-d70783bb95",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "Hello world",
+      "likes": [
+        {
+          "user_uuid": "eaa743df-093a-46f3-a296-d70783bb95"
+        },
+        {
+          "user_uuid": "0829e7a7-4e51-473e-9c28-b6e783bb95"
+        },
+        {
+          "user_uuid": "c484a199-4e51-473e-9c28-d70783bb95"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "timestamp": "Wed Jul 26 2023 16:35:44 GMT+0530 (India Standard Time)",
+      "thread_from": "eaa743df-093a-46f3-a296-d70783bb95",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "What's going on?",
+      "likes": []
+    },
+    {
+      "id": 3,
+      "timestamp": "Fri Jul 28 2023 19:42:43 GMT+0530 (India Standard Time)",
+      "thread_from": "c484a199-4e51-473e-9c28-d70783bb95",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "Awesome thread",
+      "likes": [
+        {
+          "user_uuid": "eaa743df-093a-46f3-a296-d70783bb95"
+        },
+        {
+          "user_uuid": "0829e7a7-4e51-473e-9c28-b6e783bb95"
+        },
+        {
+          "user_uuid": "c484a199-4e51-473e-9c28-d70783bb95"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "timestamp": "Wed Jul 26 2023 16:35:44 GMT+0530 (India Standard Time)",
+      "thread_from": "0829e7a7-4e51-473e-9c28-b6e783bb95",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "Excited to launch my burger company!",
+      "likes": []
+    },
+    {
+      "id": 5,
+      "timestamp": "Wed Jul 26 2023 16:40:44 GMT+0530 (India Standard Time)",
+      "thread_from": "c484a199-4e51-473e-9c28-d70783bb95",
+      "thread_to": "0829e7a7-4e51-473e-9c28-b6e783bb95",
+      "reply_to": 3,
+      "text": "good luck!!!!!",
+      "likes": []
+    },
+    {
+      "id": 6,
+      "timestamp": "Fri Jul 28 2023 15:42:43 GMT+0530 (India Standard Time)",
+      "thread_from": "c484a199-4e51-473e-9c28-d70783bb95",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "Hey!!! I am new to thread.",
+      "likes": [
+        {
+          "user_uuid": "c484a199-4e51-473e-9c28-d70783bb95"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "timestamp": "Fri Jul 28 2023 15:42:43 GMT+0530 (India Standard Time)",
+      "thread_from": "0829e7a7-4e51-473e-9c28-b6e783bb95",
+      "thread_to": "c484a199-4e51-473e-9c28-d70783bb95",
+      "reply_to": 0,
+      "text": "hiya.",
+      "likes": []
+    },
+    {
+      "timestamp": "2023-07-29T06:42:05.147Z",
+      "thread_from": "c484a199-4e51-473e-9c28-d70783bb95",
+      "thread_to": "c484a199-4e51-473e-9c28-d70783bb95",
+      "reply_to": 1,
+      "text": "hello",
+      "likes": [],
+      "id": 8
+    },
+    {
+      "timestamp": "2023-07-29T06:42:40.846Z",
+      "thread_from": "c484a199-4e51-473e-9c28-d70783bb95",
+      "thread_to": "c484a199-4e51-473e-9c28-d70783bb95",
+      "reply_to": null,
+      "text": "New thread",
+      "likes": [
+        {
+          "user_uuid": "c484a199-4e51-473e-9c28-d70783bb95"
+        }
+      ],
+      "id": 9
+    }
+  ]
+}
